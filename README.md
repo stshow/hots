@@ -45,9 +45,9 @@ That should do it!
 
 #### Helpful Links:
 
-https://wiki.archlinux.org/index.php/Wine
-https://appdb.winehq.org/objectManager.php?sClass=version&iId=32232
-https://bbs.archlinux.org/viewtopic.php?id=109631
-https://github.com/lutris/lutris/wiki/Game:-Blizzard-App
-https://github.com/lutris/lutris/wiki/Wine-Dependencies
+- https://wiki.archlinux.org/index.php/Wine
+- https://appdb.winehq.org/objectManager.php?sClass=version&iId=32232
+- https://bbs.archlinux.org/viewtopic.php?id=109631
+- https://github.com/lutris/lutris/wiki/Game:-Blizzard-App
+- https://github.com/lutris/lutris/wiki/Wine-Dependencies
 
