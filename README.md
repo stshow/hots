@@ -26,7 +26,7 @@ $ WINEPREFIX=${HOME}/Games/heroes-of-the-storm setup_dxvk64
 
 ##### There may be a couple of duplicates in the above command and only some of the libs come from AUR. This is just a quick brain dump.
 
-#### Step 3 
+##### Step 3 
 Install Battle.net and then HoTS.
 
 ```
