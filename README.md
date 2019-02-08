@@ -17,7 +17,7 @@ $ sudo yay -S lutris wine-staging nvidia nvidia-utils lib32-nvidia-utils nvidia-
 ```
 
 ##### Step 2 
-Install DXVK64 and install
+Install DXVK64 and run setup
 
 ```
 $ yay -S dxvk-git
