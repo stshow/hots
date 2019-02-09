@@ -3,7 +3,7 @@ A short wiki for running HoTS on Arch
 
 
 #### Step 1 
-Install Dependencies. 
+Install Dependencies and then install HoTS via Lutris.  
 
 ##### Note: I used Lutris to initialize the Wine prefix, but didn't use it for much else as it failed to launch Battle.net with a "file not found". Download here instead: https://www.battle.net/download/getInstallerForGame?os=win&version=LIVE&gameProgram=BATTLENET_APP
 
@@ -22,7 +22,7 @@ $ yay -S lutris wine-staging nvidia nvidia-utils lib32-nvidia-utils nvidia-setti
 Install DXVK64 and run setup
 
 ```
-$ yay -S dxvk-git
+$ yay -S dxvk-win64-git
 $ WINEPREFIX=${HOME}/Games/heroes-of-the-storm setup_dxvk64
 ```
 
